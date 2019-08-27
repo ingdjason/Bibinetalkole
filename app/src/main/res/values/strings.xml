@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bibi Show</string> <!-- BibiNètAlKole-->
+    <string name="feeds">Feeds</string>
+    <string name="shows">Shows</string>
+    <string name="about_us">About us</string>
+    <string name="albums">Albums</string>
+    <string name="search">Search</string>
+    <string name="app_intro_title1">Bibi Nètalkole</string>
+    <string name="app_intro_title2">Amazing Show</string>
+    <string name="app_intro_title3">All in One App</string>
+    <string name="app_intro_text1">Haiti’s hit afternoon radio talk show hosted by @fabiolacoupet Lighten up your traffic jam with Bibi on RadioONE 90.1FM Mon-Fri 4:30-6:30PM</string>
+    <string name="app_intro_text2">All about your favorite show</string>
+    <string name="app_intro_text3">More than 50 features in one application.</string>
+    <string name="app_intro_skip">Skip</string>
+
+</resources>
